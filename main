@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Angeles Mountains</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="div1"> 
+        <div class="header">
+            <ul>
+                <li><img src="VectorSmartObject.png" class="img1"></li>
+                <li><a href="#"><strong><em>01.HISTORY</a></em></strong></li>
+                <li><a href="#"><strong><em>02.TEAM</em></strong></a></li>
+            </ul>
+        </div>
+        <div>
+            <img src="Layer627.png" alt="" class="img2" />
+            <img src="bannerText.png" alt="Not Found" class="mountimg"/>
+        </div>
+    </div>
+    <div class="breaker">
+        <ul>
+            <li><img src="Logo_wMountains.png" alt="Not Found"/></li>
+            <li><a href="#"><strong><em>01.HISTORY</a></em></strong></li>
+            <li><a href="#"><strong><em>02.TEAM</em></strong></a></li>
+        </ul>
+    </div>
+    <div class="history">
+        <img src="01history.png" alt="Not Found" />
+        <div class="info">
+            <pre>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ante viverra rutrum erat rutrum consectetur mi. Proin at</pre>
+            <pre>maximus est. Nullam purus ex. laculis sed erat sed. blandit tincidunt quam. Cras scelerisque id quam sed dignissim</pre>
+            <pre>Pellentesque urna nunc,. gravida quis nendrerit ac,. tristique ut guam. Vivamus suscioit dignissim tortor nec congue.</pre>
+        </div>
+        <div class="slider">
+            <img src="thumb1.png" alt="Not Found"/>
+            <img src="tab2.png" alt="Not Found"/>
+            <img src="thumb1.png" alt="Not Found"/>
+            <img src="tab2.png" alt="Not Found"/>
+            <div style="text-align:center">
+                <span class="dot" ></span> 
+                <span class="dot" ></span> 
+                <span class="dot" ></span> 
+            </div>
+        </div>
+    </div>
+    <div class="climb">
+        <img src="02climb.png" alt="Not Found"/>
+        <div class="info2">
+            <pre>Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quish hendrerit ac,</pre>
+            <pre>tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</pre>
+        </div>
+    </div>
+    <div class="mountain">
+        <ul>
+            <li class="mountain1">MOUNTAIN 1</li>
+            <li class="mountain2">MOUNTAIN 2</li>
+        </ul>
+    </div>
+    <div class="snowmountain">
+        <div class="schedule">
+            <h1>SCHEDULE</h1>
+            <table>
+                <tr>
+                    <td>25 Nov 2016</td>
+                    <td>Vestibulum viverra</td>
+                </tr>
+                <tr>
+                    <td>28 Nov 2016</td>
+                    <td>Vestibulum viverra</td>
+                </tr>
+                <tr>
+                    <td style="position: relative;top: 35px;">18 Dec 2016</td>
+                    <td style="position: relative;top: 35px;">Vestibulum viverra</td>
+                </tr>
+                <tr>
+                    <td style="position: relative;top: 70px;">7 Jan 2017</td>
+                    <td style="position: relative;top: 70px;">Vestibulum viverra</td>
+                    </div>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="footer">
+        <img src="footerLogo.png" alt="Not Found">
+        <p><i>COPYRIGHT 2016.ALL RIGHTS RESERVED.</i></p>
+    </div>
+</body>
+</html>
