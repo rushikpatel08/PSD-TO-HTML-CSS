@@ -1,0 +1,236 @@
+body{
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    top: -16px;
+    left: -8px;
+}
+.header{
+    height: 44px;
+    width: 1440px;
+    top: 7px;
+    left: -8px;
+    position: relative;
+}
+ul{
+    top: 10px;
+    list-style-type: none;
+    position: relative;
+}
+li{
+   display: inline; 
+}
+.img1{
+    left: 330px;
+    position: relative;
+}
+.img2{
+    position: relative;
+    opacity: 0.1;
+    top: -70px;
+    left:10px;
+    height:100vh;
+    width: 1440px;
+}
+.header a{
+    text-decoration:underline;
+    padding: 30px;
+    left: 880px;
+    top: -14px;
+    position: relative;
+    letter-spacing:2px;
+    font-size:13px;
+    color: white;
+    font-weight: 600;
+}
+.div1{
+    position: relative;
+    height: 100vh;
+    width: 1438px;
+    background-image: url(LaBanner.png);
+    background-repeat: no-repeat; 
+}
+.mountimg{
+    height: 200px;
+    width: 549px;
+    position: relative;
+    top:-600px;
+    left: 450px;
+}
+.breaker{
+    height: 80px;
+    width: 1440px;
+    
+    display: inline-block;
+}
+.breaker img{
+    position: relative;
+    bottom:5px;
+    left: 300px;
+}
+.breaker a{
+    text-decoration:underline;
+    padding: 30px;
+    left: 780px;
+    top: -25px;
+    position: relative;
+    letter-spacing:2px;
+    font-size:13px;
+    color: gray;
+    font-weight: 600;
+}
+.history{
+    width: 1440px;
+    height: 105vh;
+    background: url('peak_0.png') no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.history img{
+    position: relative;
+    height: 80px;
+    width: 160px;
+    top: 100px;
+    left: 370px;
+}
+.info{
+    padding: 105px 414px;
+    font-size: 12px;
+    line-height: 6px;
+    letter-spacing: -1px;
+    word-spacing: 0px;
+}
+.history pre{
+    color: #384359;
+    position: relative;
+}
+.slider{
+    background-color: rgba(65, 79, 107, 0.85);
+    height: 180px;
+    width: 1440px;
+    position: relative;
+    top: 325px;
+}
+.slider img{
+    position: relative;
+    top: 20px;
+    left: 325px;
+    height: 110px;
+    width: 200px;
+}
+.dot {
+    cursor: pointer;
+    position: relative;
+    top: 30px;
+    height: 13px;
+    width: 13px;
+    margin: 0 2px;
+    left: 18px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: white;
+  }
+  .climb{
+      
+      height: 200px;
+      width: 1440px;
+  }
+  .climb img{
+    position: relative;
+    padding: 53px 329px;
+    height: 100px;
+    width: 200px;
+  }
+  .info2{
+    padding: 0px 560px;
+font-size: 12px;
+line-height: 6px;
+letter-spacing: -1px;
+word-spacing: 0px;
+top: -130px;
+position: relative;
+}
+.climb pre{
+    color: #384359;
+    position: relative;
+}
+.mountain{
+    position: relative;
+    top:-16px;
+    height: 50px;
+    width: 1440px;
+    background-color: rgba(58, 74, 107, 0.85);
+}
+
+.mountain1{
+    position: relative;
+    top: 6px;
+    left: 270px;
+    padding: 16px 25px;
+    background-color:#bcbdc5;
+    font-weight:bolder;
+    text-decoration: underline;
+    color:rgba(39, 61, 104, 0.85);
+}
+.mountain2{
+    position: relative;
+    top: 6px;
+    left: 270px;
+    padding: 16px 25px;
+    color:#bcbdc5;
+    font-weight:bolder;
+}
+.snowmountain{
+    width: 1440px;
+    height: 80vh;
+    background: url('tab1.png') no-repeat;
+    top: -37px;
+    background-size: 1440px 700px;
+    position: relative;
+}
+.schedule{
+    height: 250px;
+    width: 380px;
+    position: relative;
+    background-color: white;
+    opacity:0.5;
+    top: 200px;
+    left: 250px;
+}
+.snowmountain h1{
+    color: #1a3f8a;
+    font-size: 31px;
+    position: relative;
+    top: 15px;
+    left:25px;
+}
+td{
+    padding: 0px 30px;
+    position: relative;
+}
+.footer{
+    height: 90px;
+    width: 1440px;
+    position: relative;
+    top: -38px;
+    background-color: rgba(58, 74, 107, 0.85);
+}
+.footer img{
+    position: relative;
+    top: 20px;
+    left: 270px;
+}
+.footer i{
+    position: relative;
+    top: -30px;
+    left: 900px;
+    font-size: 15px;
+    color:rgba(51, 71, 112, 0.85);;
+    font-weight: 600;
+}
